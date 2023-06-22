@@ -1,0 +1,17 @@
+@charset "utf-8"
+
+.main_wrap {height: 100vh;}
+#header .logo {float: none; position: absolute; left: 35px; }
+#header .menu ul {right:0; padding-right: 35px; float:right;}
+
+
+.banner .text { display: inline-block; padding-top: 11.5%; height: 100%}
+.banner .main_text{font-size: 3.1rem; color: #282A31; padding-bottom: 30px; letter-spacing: -.5px; font-weight: 800; padding-left: 45px;}
+.banner .main_text span{color: #2865FF;}
+.banner .btn {margin-left: 45px;}
+.banner .info_text {padding-left: 45px;}
+
+#pg_main .portfolio h1 {padding-left: 45px;}
+#pg_main .portfolio .filter {padding-right: 45px;}
+
+.banner .main_img { margin-right: -120px; }

@@ -1,0 +1,57 @@
+
+  
+  /* Services Section
+  --------------------------------*/
+  .container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;}
+  
+    @media (min-width: 1200px){}
+.container {
+    max-width: 1565px;}
+  
+  #Portfolio {
+    background: #fff;
+      background-size: cover;
+    padding: 100px 0 100px 0;
+  }
+  
+  #Portfolio .section-header { padding-bottom: 20px;}
+  #Portfolio .section-header h3 {padding-bottom: 20px; color: #fff;}
+  
+  #Portfolio .box {
+    padding: 50px 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    height: 360px;
+    position: relative;
+    background: #fff;
+    border-radius: 7px;
+    box-shadow: 0 0 60px #A2A2A2;
+    margin-top: 15px;
+    -webkit-transition: margin 0.3s ease-out;
+    -moz-transition: margin 0.3s ease-out;
+    -o-transition: margin 0.3s ease-out;
+  }
+
+ 
+
+
+  #Portfolio .one {  background: url(../img/pf_01.png) center top no-repeat;   background-size: cover;}
+  #Portfolio .two {  background: url(../img/img02.png) center top no-repeat;}
+  #Portfolio .three {  background: url(../img/img03.png) center top no-repeat;}
+  
+
+  #Portfolio .title {
+    font-weight: bold;
+    font-size: 1.8rem;
+    top: 47%; left: 50%; transform: translate(-50%, -50%);
+    color: #fff;
+    line-height: 38px;
+    text-shadow: 0 0 20px rgb(48, 48, 48); overflow: hidden; white-space: nowrap;
+  }
+  
+  #Portfolio p {color: #CBD7F6; font-size:1.1rem; position: absolute; top: 59%; left: 50%; transform: translate(-50%, -50%); font-weight: 300; white-space: nowrap; border-radius: 5px;}
